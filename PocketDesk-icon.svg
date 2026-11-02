@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">PocketDesk</title>
+  <rect width="160" height="160" rx="42" fill="#345b43"/>
+  <rect x="30" y="30" width="46" height="46" rx="13" fill="#d4ed9b"/>
+  <rect x="84" y="30" width="46" height="46" rx="13" fill="#eff8e9"/>
+  <rect x="30" y="84" width="46" height="46" rx="13" fill="#eff8e9"/>
+  <rect x="84" y="84" width="46" height="46" rx="13" fill="#d4ed9b"/>
+</svg>
