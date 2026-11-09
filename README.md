@@ -14,3 +14,5 @@ Open `index.html` in a modern browser. There is no build step, sign-in, backend,
 ## WhatsApp Status access
 
 Choose WhatsApp's `.Statuses` folder, or a parent folder that contains it. The site searches for `.Statuses` and reads only supported media files inside that folder; it ignores other gallery folders and does not access chats, contacts, or WhatsApp's private database. Preview is available, and **Download all statuses (.zip)** packages the discovered statuses into one archive. The browser asks for read access to the selected folder. Some Android/browser combinations do not expose WhatsApp's status cache because Android and WhatsApp restrict access to app data. In that case, try the native Android Status Saver folder picker. No website can request blanket permission to WhatsApp's private data.
+
+The browser scan is limited to 500 supported media files per folder selection. When the limit is reached, the page labels the results so you know the archive contains only the files scanned so far.
